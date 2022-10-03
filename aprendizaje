@@ -58,7 +58,7 @@ print('El w tal que X(w) esta en V es ', w)
 
 
 #Paso 2. Se busca extender el dominio de aprendizaje; ahora eligiendo nuevamente puntos aleatorios en la esfera con centro en el punto "w" encontrado y radio 1/2^{k-1}. Se puede reducir a 2^N puntos en la búsqueda aleatoria si consideramos que las entradas de los elementos de la esfera coinciden con w, excepto por la  k-ésima entrada en la expansión p-ádica.
-print('-------------------------------------------------------------------------------------')
+print('--------------------------------------------------------------------------------------')
 
 
 #Definimos una funcion que tranforme un punto aleatorio a un punto en la esfera.
